@@ -1,20 +1,31 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>http://taxadvisor.ml{{ post.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endfor %}
-
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc>http://taxadvisor.ml{{ page.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://taxadvisor.ml/404</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/404" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/contact/" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/about/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/about/" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/cv/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/cv/" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/swatches/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/swatches/" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/notes/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/notes/" />
+	</url>
+	<url>
+		<loc>https://taxadvisor.ml/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/" />
+	</url>
 </urlset>
