@@ -8,7 +8,7 @@ layout: feed
  <link href="http://taxadvisor.ml/notes/atom.xml" rel="self"/>
  <link href="http://taxadvisor.ml/notes/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>https://taxadvisor.ml/notes/</id>
+ <id>https://aboutme.taxadvisor.ml/notes/</id>
  <author>
    <name>Syed Hassan Ali</name>
    <email>taxadvisor@mail.com</email>

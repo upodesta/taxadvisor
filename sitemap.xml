@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
-		<loc>https://taxadvisor.ml/404</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/404" />
+		<loc>https://aboutme.taxadvisor.ml/404</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/404" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/contact/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/contact/" />
+		<loc>https://aboutme.taxadvisor.ml/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/contact/" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/about/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/about/" />
+		<loc>https://aboutme.taxadvisor.ml/about/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/about/" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/cv/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/cv/" />
+		<loc>https://aboutme.taxadvisor.ml/cv/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/cv/" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/swatches/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/swatches/" />
+		<loc>https://aboutme.taxadvisor.ml/swatches/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/swatches/" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/notes/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/notes/" />
+		<loc>https://aboutme.taxadvisor.ml/notes/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/notes/" />
 	</url>
 	<url>
-		<loc>https://taxadvisor.ml/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/" />
+		<loc>https://aboutme.taxadvisor.ml/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://aboutme.taxadvisor.ml/" />
 	</url>
 </urlset>
